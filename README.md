@@ -17,3 +17,4 @@ Small changes have been made to the original LittleLink project and also on how 
   - `/yt` folder for YouTube
   - `/littlelink` folder for the GitHub repository of this project
 - Remove unused files
+- Change font from Open Sans to Montserrat and Pirata One
